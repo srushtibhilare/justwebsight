@@ -1,12 +1,53 @@
-# React + Vite
+# Digital Business Consultant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Available-brightgreen)](https://justwebsight-lyart.vercel.app/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite)](https://vitejs.dev/)
+[![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)]()
 
-Currently, two official plugins are available:
+> **Professional Note**: This React implementation demonstrates core web development skills directly transferable to WordPress environments.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Deployment
+**[Explore the live website here](https://justwebsight-lyart.vercel.app/)**
 
-## Expanding the ESLint configuration
+## Project Highlights
+| Section | Key Features | WordPress Equivalent |
+|---------|-------------|----------------------|
+| **Hero** | Animated CTA buttons | Cover block + Custom HTML |
+| **Services** | Interactive card grid | WordPress columns + CSS Grid |
+| **Testimonials** | Client feedback slider | Testimonial plugin/shortcode |
+| **Contact** | Functional form with validation | Contact Form 7 plugin |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Technical Implementation
+```bash
+# Run locally
+git clone https://github.com/yourusername/repo.git
+cd project
+npm install
+npm run dev# Digital Business Consultant Website
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Available-brightgreen)](https://justwebsight-lyart.vercel.app/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite)](https://vitejs.dev/)
+[![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)]()
+
+> **Professional Note**: This React implementation demonstrates core web development skills directly transferable to WordPress environments.
+
+## 🌐 Live Deployment
+**[Explore the live website here](https://justwebsight-lyart.vercel.app/)**
+
+## Project Highlights
+| Section | Key Features | WordPress Equivalent |
+|---------|-------------|----------------------|
+| **Hero** | Animated CTA buttons | Cover block + Custom HTML |
+| **Services** | Interactive card grid | WordPress columns + CSS Grid |
+| **Testimonials** | Client feedback slider | Testimonial plugin/shortcode |
+| **Contact** | Functional form with validation | Contact Form 7 plugin |
+
+## 🛠 Technical Implementation
+```bash
+# Run locally
+git clone https://github.com/yourusername/repo.git
+cd project
+npm install
+npm run dev
